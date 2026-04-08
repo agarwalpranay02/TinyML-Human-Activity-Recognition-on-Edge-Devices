@@ -36,7 +36,7 @@ This repository contains the implementation of our research paper *“TinyML-Bas
 - Integration of **federated learning** for personalized HAR.
 
 
-##📍 Presented at:  
+## Presented at:  
 **7th World Conference on Artificial Intelligence: Advances and Applications (WCAIAA 2026)**  
 - Organized by: National Forensic Sciences University (NFSU), Goa, India  
 - Technically Sponsored by: Soft Computing Research Society (SCRS)  
