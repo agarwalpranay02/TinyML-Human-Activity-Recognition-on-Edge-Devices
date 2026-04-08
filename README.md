@@ -33,7 +33,21 @@ This repository contains the implementation of our research paper *“TinyML-Bas
 ## Future Scope
 - Real-world latency and energy validation on embedded hardware.  
 - Exploring transformer-based TinyML architectures.  
-- Integration of **federated learning** for personalized HAR.  
+- Integration of **federated learning** for personalized HAR.
+
+
+📍 Presented at:  
+**7th World Conference on Artificial Intelligence: Advances and Applications (WCAIAA 2026)**  
+- Organized by: National Forensic Sciences University (NFSU), Goa, India  
+- Technically Sponsored by: Soft Computing Research Society (SCRS)  
+- 📅 January 30–31, 2026
+
+## 🏅 Conference Presentation Certificate
+
+🎤 Presented this work at **WCAIAA 2026**  
+
+🔗 View Certificate:  
+https://drive.google.com/file/d/1ci1EG9D85K83cUhpkDl4lZQx8boihCI-/view?usp=sharing
 
 ---
 
